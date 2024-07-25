@@ -17,5 +17,5 @@ Compensation Analysis:
 Potential Areas for Improvement:
 
 1. Addressing the gender pay gap is crucial for promoting fairness and equity within the organization.
-2.Enhancing gender and age diversity can lead to a more inclusive and well-rounded workforce.
-3.Analyzing factors contributing to salary disparities, such as job roles, experience, and performance, is essential for implementing targeted compensation strategies.
+2. Enhancing gender and age diversity can lead to a more inclusive and well-rounded workforce.
+3. Analyzing factors contributing to salary disparities, such as job roles, experience, and performance, is essential for implementing targeted compensation strategies.
